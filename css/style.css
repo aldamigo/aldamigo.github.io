@@ -331,7 +331,7 @@
 
 /*** Feature ***/
 
-@media (max-width: 360px) {
+@media (max-width: 393px) {
   .row .g-4 {
     flex-direction: column;
   }
