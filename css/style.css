@@ -337,6 +337,12 @@
   }
 }
 
+@media (max-width: 430px) {
+  .row .g-4 {
+    flex-direction: column;
+  }
+}
+
 @media (min-width: 992px) {
   .container.feature {
     max-width: 100% !important;
